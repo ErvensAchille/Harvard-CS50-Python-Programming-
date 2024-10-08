@@ -1,0 +1,30 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+
+header{
+    font-size:large;
+    font-weight: bold;
+}
+main{
+    font-size: medium;
+}
+footer{
+    font-size: small;
+}
+a{
+    text-decoration-style: none ;
+}
+a:hover{
+    text-decoration: underline;
+}
+#espn{
+    color: aqua;
+
+}
+#cnn{
+color: blue;
+}
